@@ -1,0 +1,5 @@
+🧩 Problem Statement
+
+Traditional attendance systems in educational institutions rely on manual methods that are time-consuming, prone to human error, and involve paper-based documentation, which is not environmentally sustainable.
+To overcome these issues, this project aims to develop an AI-based Student Attendance Recognition System using Convolutional Neural Networks (CNNs) that can automatically identify students’ faces from classroom images and mark attendance digitally.
+This approach ensures a continuous, efficient, and paperless attendance process, contributing to sustainable digital education.
